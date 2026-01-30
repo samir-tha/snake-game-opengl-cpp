@@ -62,7 +62,8 @@ This project demonstrates fundamental **computer graphics concepts** such as ras
 cd <working-directory>
 git clone https://github.com/samir-tha/snake-game-opengl-cpp
 cd snake-game-opengl-cpp
-'''
+
+
 ---
 
 ### Step 2: Open in DEV-C++
@@ -103,3 +104,4 @@ In DEV-C++:
 
 
 This project is for **educational purposes only**.
+
