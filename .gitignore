@@ -4,4 +4,4 @@
 *.a
 *.lib
 *.layout
-*.depend
+*.depend.DS_Store
