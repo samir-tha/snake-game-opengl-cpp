@@ -5,3 +5,4 @@
 *.lib
 *.layout
 *.depend.DS_Store
+.DS_Store
